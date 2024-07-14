@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="mvnpractice(failed)">
+    <classes>
+      <class name="Google">
+        <methods>
+          <include name="main"/>
+        </methods>
+      </class> <!-- Google -->
+    </classes>
+  </test> <!-- mvnpractice(failed) -->
+</suite> <!-- Failed suite [Suite] -->
